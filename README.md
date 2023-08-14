@@ -1,7 +1,8 @@
 # To-Do List Projesi
 
 Bu proje, kullanıcıların yapılacaklar listesi oluşturmasına ve yönetmesine olanak tanır. Authorizitaion sistemi vardır ve her token 30 dakika geçerlidir.
-Todo lar için Dosyaları upload etme ve bir resim yükleme şuanda aktif deildir.
+Kullanıcılar giriş ekranından kayıt olup kendi yapılacaklar listesini yönetebilirler.
+Todo lar için Dosyaları upload etme ve bir resim yükleme şuanda aktif deildir. (Backend tarafı bitmedi)
 
 Backend  -> Java(Spring boot, Spring Security, Hibernate)  Database olarak H2 kullandım gömülü backend'de
 
