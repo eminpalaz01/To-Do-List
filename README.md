@@ -56,6 +56,6 @@ not: Database'e 'http://localhost:8080/h2-console' bağlantısından uygulama ç
 
 username : sa
 
-şifre : 123
+password : 123
 
 bilgileri ile bağlanabilirsiniz.
