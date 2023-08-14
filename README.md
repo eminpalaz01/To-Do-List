@@ -4,7 +4,7 @@ Bu proje, kullanıcıların yapılacaklar listesi oluşturmasına ve yönetmesin
 Kullanıcılar giriş ekranından kayıt olup kendi yapılacaklar listesini yönetebilirler.
 Todo lar için Dosyaları upload etme ve bir resim yükleme şuanda aktif deildir. (Backend tarafı bitmedi)
 
-Backend  -> Java(Spring boot, Spring Security, Hibernate)  Database olarak H2 kullandım gömülü backend'de
+Backend  -> Java(Spring boot, Spring Security, Hibernate) , Veritabanı olarak H2 kullandım gömülü backend'de
 
 Frontend -> Javascript(React.js, Material UI)
 
@@ -53,7 +53,7 @@ npm start
  
 not: Backend'e  'http://localhost:8080/swagger-ui/index.html#/' bağlantısından uygulama çalışır haldeyken ulaşıp API dökümantasyonuna bakabilirsiniz.
 
-not: Database'e 'http://localhost:8080/h2-console' bağlantısından uygulama çalışır haldeyken
+not: Veritabanına 'http://localhost:8080/h2-console' bağlantısından uygulama çalışır haldeyken
 
 username : sa
 
