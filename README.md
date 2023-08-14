@@ -1,10 +1,8 @@
-Tabii ki, işte README dosyanız için bir örnek:
-
-less
-Copy code
 # To-Do List Projesi
 
 Bu proje, kullanıcıların yapılacaklar listesi oluşturmasına ve yönetmesine olanak tanır.
+Backend  -> Java(Spring boot, Spring Security, Hibernate)
+Frontend -> Javascript(React.js, Material UI)
 
 ## Başlangıç
 
@@ -17,6 +15,7 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların yüklü olması ge
 - Java Development Kit (JDK) 11: [Java 11 indirme sayfası](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - Node.js ve npm: [Node.js indirme sayfası](https://nodejs.org/)
 - Git: [Git indirme sayfası](https://git-scm.com/downloads)
+- Maven: [Maven indirme sayfası](https://maven.apache.org/download.cgi)
 
 ### Kurulum
 
@@ -45,18 +44,10 @@ Copy code
 ### Çalıştırma
 
 1. Backend uygulamasını çalıştırmak için backend klasöründe aşağıdaki komutu kullanın:
-
 ./mvnw spring-boot:run
 
-css
-Copy code
-
 2. Frontend uygulamasını çalıştırmak için frontend klasöründe aşağıdaki komutu kullanın:
-
 npm start
-
-less
-Copy code
 
 3. Tarayıcınızı açın ve `http://localhost:3000` adresine giderek uygulamayı görüntüleyin.
 
