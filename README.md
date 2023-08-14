@@ -39,9 +39,11 @@ npm install
 ### Çalıştırma
 
 1. Backend uygulamasını çalıştırmak için backend klasöründe aşağıdaki komutu kullanın:
+ 
 ./mvnw spring-boot:run
 
 2. Frontend uygulamasını çalıştırmak için frontend klasöründe aşağıdaki komutu kullanın:
+ 
 npm start
 
 3. Tarayıcınızı açın ve `http://localhost:3000` adresine giderek uygulamayı görüntüleyin.
