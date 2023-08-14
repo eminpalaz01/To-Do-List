@@ -1,7 +1,9 @@
 # To-Do List Projesi
 
-Bu proje, kullanıcıların yapılacaklar listesi oluşturmasına ve yönetmesine olanak tanır.
-Backend  -> Java(Spring boot, Spring Security, Hibernate)
+Bu proje, kullanıcıların yapılacaklar listesi oluşturmasına ve yönetmesine olanak tanır. Authorizitaion sistemi vardır ve her token 30 dakika geçerlidir.
+Todo lar için Dosyaları upload etme ve bir resim yükleme şuanda aktif deildir.
+
+Backend  -> Java(Spring boot, Spring Security, Hibernate)  Database olarak H2 kullandım gömülü backend'de
 Frontend -> Javascript(React.js, Material UI)
 
 ## Başlangıç
@@ -21,25 +23,16 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların yüklü olması ge
 
 1. Bu depoyu klonlayın:
 
-git clone https://github.com/kullanici/ToDoListProjesi.git
-
-markdown
-Copy code
+git clone https://github.com/eminpalaz01/To-Do-List.git
 
 2. Frontend ve backend klasörlerine gidin:
 
 cd ToDoListProjesi/frontend
-cd ToDoListProjesi/backend
+cd ToDoListProjesi/springbootcase
 
-css
-Copy code
-
-3. Her iki klasörde de aşağıdaki komutu çalıştırarak bağımlılıkları yükleyin:
+3. Frontend klasörüne aşağıdaki komutu çalıştırarak bağımlılıkları yükleyin:
 
 npm install
-
-css
-Copy code
 
 ### Çalıştırma
 
@@ -50,5 +43,3 @@ Copy code
 npm start
 
 3. Tarayıcınızı açın ve `http://localhost:3000` adresine giderek uygulamayı görüntüleyin.
-
-## Lisans
