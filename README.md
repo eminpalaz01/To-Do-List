@@ -4,6 +4,7 @@ Bu proje, kullanıcıların yapılacaklar listesi oluşturmasına ve yönetmesin
 Todo lar için Dosyaları upload etme ve bir resim yükleme şuanda aktif deildir.
 
 Backend  -> Java(Spring boot, Spring Security, Hibernate)  Database olarak H2 kullandım gömülü backend'de
+
 Frontend -> Javascript(React.js, Material UI)
 
 ## Başlangıç
