@@ -30,7 +30,7 @@ https://github.com/eminpalaz01/To-Do-List.git
 
 2. Frontend ve backend klasörlerine gidin:
 
-cd ToDoListProjesi/frontend
+cd ToDoListProjesi/frontend/casefrontend
 
 cd ToDoListProjesi/springbootcase
 
