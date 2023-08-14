@@ -25,6 +25,7 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların yüklü olması ge
 1. Bu depoyu klonlayın:
 
 git clone 
+
 https://github.com/eminpalaz01/To-Do-List.git
 
 2. Frontend ve backend klasörlerine gidin:
