@@ -5,8 +5,6 @@ Todo lar için Dosyaları upload etme ve bir resim yükleme şuanda aktif deildi
 
 Backend  -> Java(Spring boot, Spring Security, Hibernate)  Database olarak H2 kullandım gömülü backend'de
 
-not: Backend'e  'http://localhost:8080/swagger-ui/index.html#/' bağlantılısından ulaşıp API dökümantasyonuna bakabilirsiniz.
-
 Frontend -> Javascript(React.js, Material UI)
 
 ## Başlangıç
@@ -51,3 +49,5 @@ npm install
 npm start
 
 3. Tarayıcınızı açın ve `http://localhost:3000` adresine giderek uygulamayı görüntüleyin.
+ 
+not: Backend'e  'http://localhost:8080/swagger-ui/index.html#/' bağlantılısından ulaşıp API dökümantasyonuna bakabilirsiniz.
