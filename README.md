@@ -50,4 +50,4 @@ npm start
 
 3. Tarayıcınızı açın ve `http://localhost:3000` adresine giderek uygulamayı görüntüleyin.
  
-not: Backend'e  'http://localhost:8080/swagger-ui/index.html#/' bağlantılısından ulaşıp API dökümantasyonuna bakabilirsiniz.
+not: Backend'e  'http://localhost:8080/swagger-ui/index.html#/' bağlantısından uygulama çalışır haldeyken ulaşıp API dökümantasyonuna bakabilirsiniz.
