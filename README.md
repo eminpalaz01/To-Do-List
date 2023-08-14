@@ -29,6 +29,7 @@ git clone https://github.com/eminpalaz01/To-Do-List.git
 2. Frontend ve backend klasörlerine gidin:
 
 cd ToDoListProjesi/frontend
+
 cd ToDoListProjesi/springbootcase
 
 3. Frontend klasörüne aşağıdaki komutu çalıştırarak bağımlılıkları yükleyin:
