@@ -52,10 +52,10 @@ npm start
  
 not: Backend'e  'http://localhost:8080/swagger-ui/index.html#/' bağlantısından uygulama çalışır haldeyken ulaşıp API dökümantasyonuna bakabilirsiniz.
 
-not: Database'e 'http://localhost:8080/h2-console' linkinden 
+not: Database'e 'http://localhost:8080/h2-console' bağlantısından uygulama çalışır haldeyken
 
-username:sa
+username : sa
 
-şifre:123
+şifre : 123
 
-ile bağlanabilirsiniz.
+bilgileri ile bağlanabilirsiniz.
